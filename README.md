@@ -3,7 +3,7 @@
 
 An web application that is used to send out translated email to multiple groups of recipients.
 
-##Features##
+## Features
 
 User can import or manually store customers' information on the application's built in database.
 User can easily make changes to any customer's info on the app.
@@ -13,7 +13,7 @@ Installation
 
 This guide assume that user already have a Google Cloud Account.
 
-##Set up a SendGrid Account##
+## Set up a SendGrid Account
 
 
 Go to SendGrid's Sign Up Page and open a new account.
@@ -27,7 +27,7 @@ On Create an API key section, enter a name for your key, then click Create Key
 Copy this key
 That's all you will need for this step.
 
-##Create a new project on Google Cloud Platform##
+## Create a new project on Google Cloud Platform
 
 Navigate to the search box on the top bar and search for Create a Project
 Enter the name for your project then click Create
@@ -37,7 +37,7 @@ On the terminal, run the command (replace [PROJECT-ID] with the ID that you just
 gcloud config set project [PROJECT-ID]
 You have just set up the environment to deploy the project!
 
-##Enable Google Translate API##
+## Enable Google Translate API
 Navigate to the search box and search for Cloud Translation API
 Click the result under Marketplace
 Enable the API
