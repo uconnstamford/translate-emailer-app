@@ -1,4 +1,4 @@
-##Translate Emailer App##
+##Translate Emailer App
 
 
 An web application that is used to send out translated email to multiple groups of recipients.
