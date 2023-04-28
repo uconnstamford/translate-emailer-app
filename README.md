@@ -35,7 +35,7 @@ Click the result under Marketplace
 Enable the API
 Clone and edit the project
 On the terminal, run the command
-git clone https://github.com/4m3r1c4nP13/translate-emailer-app.git
+git clone https://github.com/uconnstamford/translate-emailer-app
 Navigate to Open Editor
 Once entered the Editor, on the left menu, navigate to folder translate-emailer-app
 Open the config.py file under translate-emailer-app
